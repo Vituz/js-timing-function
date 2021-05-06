@@ -10,6 +10,8 @@ showTimer.innerHTML = secondi;
 
 var crono;
 
+var prova;
+
 document.getElementById("start")
 .addEventListener("click", startTimer);
 
