@@ -8,8 +8,6 @@ var showTimer = document.getElementById("tempo");
 
 showTimer.innerHTML = secondi;
 
-
-
 var crono;
 
 document.getElementById("start")
